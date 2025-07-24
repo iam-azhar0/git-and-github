@@ -18,7 +18,7 @@ This is my solution to the **QR Code Component** challenge from [Frontend Mentor
 
 ## 🌐 Live Site
 
-- [Click Here]()
+- [Click Here](https://first-project-two-lilac.vercel.app/)
 
 ## 📚 What I Learned
 
